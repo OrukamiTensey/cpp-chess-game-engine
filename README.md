@@ -20,6 +20,7 @@
   * Абсолютне зв'язування фігур (унеможливлення ходу, що відкриває шах власному королю).
   * Перетворення пішака при досягненні крайньої горизонталі (Promotion to Queen).
   * Детекція закінчення гри (Шах, Мат, Пат).
+<img width="590" height="591" alt="image" src="https://github.com/user-attachments/assets/38bfa8b6-db54-4a0d-bfde-242843d656e4" />
 
 ---
 
@@ -62,3 +63,4 @@ cpp-chess-game-engine/
 │   ├── Engine.h
 │   └── CellPrices.h
 └── README.md
+
